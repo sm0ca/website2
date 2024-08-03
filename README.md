@@ -1,2 +1,2 @@
-# website2
-Another old personal site's code and assets 
+# sm0ca.github.io
+My personal website.
