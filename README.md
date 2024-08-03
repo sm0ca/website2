@@ -1,2 +1,2 @@
-# sm0ca.github.io
-My personal website.
+# Formerly sm0ca.github.io
+My other personal website.
